@@ -1,0 +1,6 @@
+Submissions to this competition must be made through Kernels. Your kernel will re-run automatically against an unseen test set, and needs to output a file named submission.csv. You can still train a model offline, upload it as a dataset, and use the kernel exclusively to perform inference.
+In order for the "Submit to Competition" button to be active after a commit, the following conditions must be met:
+
+    CPU or GPU Kernels <= 9 hours run-time
+    Internet must be turned off
+    In synchronous KO competitions, note that a submission that results in an error--either within the kernel or within the process of scoring--will count against your daily submission limit and will not return the specific error message. This is necessary to prevent probing the private test set.
